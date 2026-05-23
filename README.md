@@ -45,8 +45,7 @@ A Windows Forms desktop application for managing vehicle records, built with C# 
 
 ## Screenshots
 
-> *(Add a screenshot of the running app here)*
-
+![AracTakip Screenshot](AracTakip.png)
 ---
 
 ## About
